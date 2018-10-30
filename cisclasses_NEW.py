@@ -1,8 +1,6 @@
 '''
-Lab 8
+cis class search app
 Name: Sjaakar * ALTIN * Campbell
-Class: CIS41A PYTHON
-Professor: The Awesome Mrs.Clare Nguyen
 Week: 8
 Date 17MAR2018
 Description: This program is an application that helps a user look up CIS classes.
