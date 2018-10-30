@@ -1,0 +1,597 @@
+<table border="0" cellpadding="2" cellspacing="0" id="degtable" style="width: 580px;">
+<tbody>
+<tr><th class="blue-background" scope="col" style="white-space: nowrap; text-align: left;"><strong>Course</strong></th><th class="blue-background" scope="col" style="text-align: left;"><strong>Course Name</strong></th><th class="blue-background" scope="col"><strong>Fall</strong></th><th class="blue-background" scope="col">Winter</th><th class="blue-background" scope="col">Spring</th><th class="blue-background" scope="col">Summer</th></tr>
+<tr>41G
+<td class="blue" style="white-space: nowrap;"><strong>CIS 2</strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=182" title="View Course Outline">Computer and Society</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 3</strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=2063">Business Information Systems</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</st41Grong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 4</strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=12500">Computer Literacy(formerly CIS 93)</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 14A</strong></td>
+<td valign="middle"><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=2980" title="View Course Description">Visual Basic .NET Programming I</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 14B</strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=2980" title="View Course Description">Visual Basic .NET Programming II</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><a href="#Footnotes"><sup></sup></a></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 15BG</strong></td>
+<td>Intermediate Problem Solving in C<br/><span style="color: #dc143c; background-color: #ffff00;">(Has been replaced with CIS 22B - Intermediate Methodologies in C++ beginning Fall 2013)</span></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 15C</strong></td>
+<td>Data Structures<br/><span style="color: #dc143c; background-color: #ffff00;">(Has been replaced with CIS 22C - Data Abstraction and Structures beginning Winter 2014)</span></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 18A</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS18A13-14" title="View Course Description">Introduction to UNIX/LINUX</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 18B</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS18B13-14" title="View Course Description">Advanced UNIX/LINUX</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x<a href="#Footnotes"><sup>1</sup></a></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 18C</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS18C13-14" title="View Course Description">Shell Programming</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x<a href="#Footnotes"><sup>1</sup></a></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 21JA</strong></td>
+<td><a href="http://deanza.edu/publications/catalog/search/schdetail.html?detailNum=CIS21JA13-14">Introduction to x86 Processor Assembly Language and Computer Architecture</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 21JB</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS21JB12-13" title="View Course Description">Advanced Programming: Series 86 and IA32/Pentium Assembly Language</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><strong><strong><strong>x<a href="#Footnotes"><sup>1</sup></a></strong></strong></strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 22A</strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=12394" title="View Course Outline">Beginning Programming Methodologies in C++</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 22B</strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=12396" title="View Course Outline">Intermediate Programming Methodologies in C++</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><span></span><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><span></span><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><span></span><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><span></span><strong>x</strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 22C</strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=12393" title="View Course Description">Data Abstraction and Structures</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 26A</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS26A12-13" title="View Course Description">C as a Second Programming Language</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 26B</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS26B12-13" title="View Course Description">Advanced C Programming</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><strong>x<sup>7</sup></strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 27</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS2712-13" title="View Course Description">Programming in C++ for C Programmers</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><strong><strong>x<sup>7</sup></strong></strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 28</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS2812-13" title="View Course Description">Object Oriented Analysis and Design</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 29</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS29I12-13" title="View Course Description">Advanced C++ Programming</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><strong>x</strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 30A</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS30A12-13" title="View Course Description">Introduction to C# Programming</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 30B</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS30B12-13" title="View Course Description">Advanced C# Programming</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 31</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS3112-13" title="View Course Description">Operating System Concepts</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 33A</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS33A12-13" title="View Course Description">Programming in PERL</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 33B</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS33B12-13" title="View Course Description">Advanced PERL Programming</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><strong>x<a href="#Footnotes"><sup>2</sup></a></strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 35A</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS35A12-13" title="View Course Description">Introduction to Java Programming</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 35B</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS35B12-13" title="View Course Description">Advanced Java Programming</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 36A</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS61A12-13" title="View Course Description">Introduction to Computer Programming in Java</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 36B</strong></td>
+<td><a href="http://deanza.edu/publications/catalog/search/schdetail.html?detailNum=CIS61B12-13" target="_blank">Intermediate Problem Solving in Java</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 40</strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=12900" target="_blank">Introduction to Programming in Python</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 41A</strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=12898" target="_blank">Python Programming</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle">x</td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 41B</strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=12899" target="_blank">Advanced Python Programming</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 50</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS5012-13" title="View Course Description">Introduction to Computers, Data Processing, and<br/>Applications</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 53</strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=10748">Java for Mobile Development</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 55</strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=12499">iOS Development</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 56</strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=12682" target="_blank">Network Security</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 57</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS5712-13" title="View Course Description">Web Site Administration</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 63</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS6312-13" title="View Course Description">Systems Design</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 64A</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS64A12-13" title="View Course Description">Data Base Management Systems</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 64B</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS64B12-13" title="View Course Description">Introduction to SQL</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 64C</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS64C12-13" title="View Course Description">Introduction to PL/SQL</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 64D</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS64D12-13" title="View Course Description">Database Tuning</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x<a href="#Footnotes"><sup>2</sup></a></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 64E</strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=12698">Introduction to Large Scale Processing Systems</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 64F</strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=12702">Introduction to Big Data and Analytics</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 66</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS6612-13" title="View Course Description">Introduction to Data Communication and Networking</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 67A</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS67A12-13" title="View Course Description">Local Area Networks</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 67B</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS67B12-13" title="View Course Description">Introduction to Wide Area Networking</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x<a href="#Footnotes"><sup>2</sup></a></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 73</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS7312-13" title="View Course Description">UNIX/LINUX Systems Programming</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 74</strong></td>
+<td><a href="/outlineprogresspublic.html?catalogID=2064">Computer Software Quality Assurance</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 75A</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS75A12-13" title="View Course Description">Internet Concepts and TCP/IP Protocols</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 75B</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS75B12-13" title="View Course Description">Internet Programming with TCP/IP</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x<sup><a href="#Footnotes">2</a></sup></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 75C</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS75C12-13" title="View Course Description">Enterprise Security Threats Management</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 75D</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS75D12-13" title="View Course Description">Enterprise Security Policy Management</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 75E</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS75E12-13" title="View Course Description">Enterprise Emergency Response Planning</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 79</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS7912-13" title="View Course Description">Managing Technology Projects</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 80A</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS80A12-13" title="View Course Description">Process Management</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 86</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=ACCT8612-13" title="View Course Description">Computer Accounting Systems</a><a href="#Footnotes"><sup>6</sup></a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 89A</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS89A12-13" title="View Course Description">World Wide Web Page Development</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 89C</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS89C12-13" title="View Course Description">Client-Side Programming with Javascript</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 95A</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS95A12-13" title="View Course Description">Project Management</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><strong>x</strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><strong>x</strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 95B</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS95B12-13" title="View Course Description">Project Planning and Control - A Practicum</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><strong>x</strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 95C</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS95C12-13" title="View Course Description">Risk Assessment and Mitigation - A Practicum</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 95D</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS96D12-13" title="View Course Description">Managing Outsourcing - A Practicum</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 95E</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS95E12-13" title="View Course Description">CAPM and PMP Exam Preparation</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong>x</td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 95F</strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=12149">Managing Cloud Projects</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong><strong>CIS 95G</strong></strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=12843" target="_blank">Agile Project Management - A Practicum</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><strong>x</strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 96</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS9612-13" title="View Course Description">Special Projects in Computer Information Systems</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 96X</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS9612-13" title="View Course Description">Special Projects in Computer Information Systems</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 96Y</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS9612-13" title="View Course Description">Special Projects in Computer Information Systems</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 98</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS10812-13" title="View Course Description">Digital Image Editing</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><strong>x</strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 99</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS10812-13" title="View Course Description">Office Software Applications</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><strong>x</strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><strong>x</strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><strong>x</strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><strong>x</strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 102</strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=12683">Ethical Hacking</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><strong>x</strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><strong>x</strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><strong>x</strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong><strong>x</strong></strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 108</strong></td>
+<td><a href="/publications/catalog/search/schdetail.html?detailNum=CIS10812-13" title="View Course Description">Personal Computer Security Basics</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+</tr>
+<tr>
+<td class="blue" style="white-space: nowrap;"><strong>CIS 170F</strong></td>
+<td><a href="http://ecms.deanza.edu/outlineprogresspublic.html?catalogID=10988">Windows Administration</a></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong>x</strong></td>
+<td align="center" style="background-color: #ffffff;" valign="middle"><strong></strong></td>
+</tr>
+</tbody>
+</table>
