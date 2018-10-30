@@ -1,4 +1,4 @@
-from LABS.Lab8.cisclasses import CISclasses
+from cisclasses import CISclasses
 
 
 class UI:
