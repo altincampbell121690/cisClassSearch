@@ -1,0 +1,18 @@
+fd = open("words.txt")
+d = {}
+for word in fd:  
+	word = word.strip()
+	if len(word) >= 14:   
+ 		l = list(word)
+		l.sort()
+		s = str(l)
+		if s in d:
+			d[s].append(word)
+		else:
+			d[s] = [word]
+
+for sorted_word in d:
+	if len(d[sorted_word]) > 1:
+		print(d[sorted_word])
+
+100000026527374100095468795-  7453050654647
