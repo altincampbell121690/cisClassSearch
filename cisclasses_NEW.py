@@ -16,7 +16,7 @@ class CISclasses:
         CISclass constructer
         Uses reg ex to capture desired information from HTML
         '''
-        file = "lab8input.txt"
+        file = "HTMLinput.txt"
         listofClasses = []
         found = False
         while not found:
