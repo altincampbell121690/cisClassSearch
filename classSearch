@@ -1,9 +1,6 @@
 '''
-Lab 8
+CIS sear APP
 Name: Sjaakar * ALTIN * Campbell
-Class: CIS41A PYTHON
-Professor: The Awesome Mrs.Clare Nguyen
-Week: 8
 Date 17MAR2018
 Description: This program is an application that helps a user look up CIS classes.
              The app uses data from this CIS web page.
@@ -11,7 +8,7 @@ Description: This program is an application that helps a user look up CIS classe
 
 from LABS.Lab8.cisclasses import CISclasses
 '''
-In this lab I used three classes UI, CIS classes, course info.
+In this APP I used three classes UI, CIS classes, course info.
 UI: contains all of the functions/methods used to search the course database
 CIS classes: uses regex to capture all of the data needed to instantiate a courseinfo object and the methods to search
     all instantiated courseinfo objects will be stored in a tuple because there will be no need to change that data
